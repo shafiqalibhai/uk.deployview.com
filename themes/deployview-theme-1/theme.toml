@@ -1,7 +1,7 @@
 name = "DeployView"
 description = "DeployView Limited"
 homepage = "http://uk.deployview.com"
-min_version = 0.16
+min_version = 0.18
 
 [author]
   name = "DeployView"
