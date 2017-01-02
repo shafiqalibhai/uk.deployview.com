@@ -1,0 +1,8 @@
+name = "DeployView"
+description = "DeployView Limited"
+homepage = "http://uk.deployview.com"
+min_version = 0.16
+
+[author]
+  name = "DeployView"
+  homepage = "http://uk.deployview.com"
