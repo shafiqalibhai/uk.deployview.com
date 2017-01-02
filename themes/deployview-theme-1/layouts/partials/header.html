@@ -4,21 +4,40 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="google-site-verification" content="RoXJZAdJ17F147EcKmW6XP_LuGdeN4avAr94tWptZ8g" />
+	<link href="{{ .Site.BaseURL }}css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="{{ .Site.BaseURL }}css/socicon.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="{{ .Site.BaseURL }}css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="{{ .Site.BaseURL }}css/interface-icons.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="{{ .Site.BaseURL }}css/owl.carousel.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="{{ .Site.BaseURL }}css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="{{ .Site.BaseURL }}css/theme.css" rel="stylesheet" type="text/css" media="all" />
+	<link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700%7CMontserrat:400,700' rel='stylesheet' type='text/css'>
 	<title>{{ .Title }}</title>
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
-	{{ .Hugo.Generator }}
 </head>
-<body>
-	<header>
-		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-		<nav>
-			<ul>
-				{{ range .Site.Menus.main }}
-				<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-				{{ end }}
-			</ul>
+<body class="scroll-assist">
+	<a id="top"></a>
+    <div class="loader"></div>
+		<nav class="transition--fade">
+			<div class="nav-bar nav--absolute nav--transparent" data-fixed-at="200">
+				<div class="nav-module logo-module left">
+					<a href="{{ .Site.BaseURL }}">
+						<!-- {{ .Site.Title }} -->
+					</a>
+				</div>
+				<div class="nav-module menu-module left">
+					<ul class="menu">
+						<li><a href="{{ .Site.BaseURL }}">Home</a></li>
+						{{ range .Site.Menus.main }}
+						<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+						{{ end }}
+					</ul>
+				</div>
+			</div>
+			<div class="nav-mobile-toggle visible-sm visible-xs">
+                <i class="icon-Align-Right icon icon--sm"></i>
+            </div>
 		</nav>
-	</header>
