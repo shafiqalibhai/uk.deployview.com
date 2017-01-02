@@ -1,4 +1,4 @@
 baseurl = "http://uk.deployview.com/"
 languageCode = "en-gb"
 title = "DeployView Limited"
-theme = "deployview"
+theme = "deployview-theme-1"
