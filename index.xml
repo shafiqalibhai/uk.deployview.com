@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DeployView Limited</title>
+    <link>http://uk.deployview.com/index.xml</link>
+    <description>Recent content on DeployView Limited</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://uk.deployview.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About DeployView</title>
+      <link>http://uk.deployview.com/about/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://uk.deployview.com/about/</guid>
+      <description>&lt;p&gt;DeployView Limited&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
