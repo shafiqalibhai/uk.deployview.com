@@ -2,19 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DeployView Limited</title>
-    <link>http://uk.deployview.com/index.xml</link>
+    <link>http://uk.deployview.com/</link>
     <description>Recent content on DeployView Limited</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://uk.deployview.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://uk.deployview.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
-      <link>http://uk.deployview.com/</link>
+      <link>http://uk.deployview.com/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://uk.deployview.com/</guid>
+      <guid>http://uk.deployview.com/index/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://uk.deployview.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://uk.deployview.com/resume/</guid>
+      <description>SHAFIQ ALIBHAI Mobile: +44(0)7419872692 E-mail: hello@deployview.com Linkedin: http://linkedin.shafiq.in
+SUMMARY • Independent and self-motivated, capable of working with minimal supervision • Capable of prioritising and delivering complex and sometimes inter-dependent workloads • Works effectively with stakeholders involved with the delivery of complex technology implementations
+EMPLOYMENT HISTORY Development Operaions Engineer DeployView Limited Nov 2014 - Mar 2017 • Interacting with clients, managers, technical teams, support teams and 3rd parties to plan technology initiatives.</description>
     </item>
     
   </channel>
