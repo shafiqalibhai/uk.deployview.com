@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cms on DeployView Limited</title>
+    <link>http://uk.deployview.com/tags/cms/</link>
+    <description>Recent content in Cms on DeployView Limited</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="http://uk.deployview.com/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wordpress Hosting</title>
+      <link>http://uk.deployview.com/pages/wordpress-hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://uk.deployview.com/pages/wordpress-hosting/</guid>
+      <description>Introduction Test 123</description>
+    </item>
+    
+  </channel>
+</rss>
