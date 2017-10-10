@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on DeployView</title>
+    <link>http://uk.deployview.com/</link>
+    <description>Recent content in Home on DeployView</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://uk.deployview.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solutions</title>
+      <link>http://uk.deployview.com/solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://uk.deployview.com/solutions/</guid>
+      <description> Solutions </description>
+    </item>
+    
+    <item>
+      <title>Drupal Hosting</title>
+      <link>http://uk.deployview.com/solutions/drupal-hosting/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://uk.deployview.com/solutions/drupal-hosting/</guid>
+      <description>Introduction Drupal Hosting Solution</description>
+    </item>
+    
+    <item>
+      <title>Wordpress Hosting</title>
+      <link>http://uk.deployview.com/solutions/wordpress-hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://uk.deployview.com/solutions/wordpress-hosting/</guid>
+      <description>Introduction Wordpress Hosting Solution</description>
+    </item>
+    
+  </channel>
+</rss>
