@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://uk.deployview.com/</loc>
+    <loc>https://uk.deployview.com/resume/</loc>
   </url>
   
   <url>
-    <loc>http://uk.deployview.com/categories/</loc>
+    <loc>https://uk.deployview.com/</loc>
+    <lastmod>2016-03-08T21:07:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uk.deployview.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://uk.deployview.com/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uk.deployview.com/tags/</loc>
+    <loc>https://uk.deployview.com/tags/</loc>
     <priority>0</priority>
   </url>
   

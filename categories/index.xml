@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DeployView Limited</title>
-    <link>http://uk.deployview.com/categories/</link>
+    <link>https://uk.deployview.com/categories/</link>
     <description>Recent content in Categories on DeployView Limited</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://uk.deployview.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uk.deployview.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
